@@ -14,3 +14,5 @@ Update logs:
 1.4.3 - Beehive config changes
 
 1.4.3 - Beehive config changes PART 2
+
+1.4.4 - Beehive config changes for minutes
