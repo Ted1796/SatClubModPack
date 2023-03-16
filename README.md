@@ -2,6 +2,7 @@
 ===================================================================================
 
 Saturday Club server's mod pack
+Mod link: https://valheim.thunderstore.io/package/SatClubTeam/SatClubModPack/
 
 Update logs:
 
@@ -18,3 +19,5 @@ Update logs:
 1.4.4 - Beehive config changes for minutes
 
 1.4.5 - Build Restriction, removed function where one can build without the required workbench.
+
+1.4.6 - Made spinning wheel and windmill automatic.
