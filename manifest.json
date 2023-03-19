@@ -1,6 +1,6 @@
 {
   "name": "SatClubModPack",
-  "version_number": "2.0.1",
+  "version_number": "2.0.2",
   "website_url": "https://github.com/Ted1796/SatClubModPack",
   "description": "Mod pack for SatClub Server",
   "dependencies": [
@@ -11,7 +11,6 @@
     "OdinPlus-OdinShip-0.2.6",
     "Azumatt-Build_Camera_Custom_Hammers_Edition-1.1.3",
     "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.3.9",
-    "OdinPlus-BetterLanterns-1.0.2",
     "OdinPlus-BowOfFrey-1.0.2",
     "Advize-PlantEverything-1.13.3",
     "GoldenJude-Blacksmiths_tools-2.0.2",
