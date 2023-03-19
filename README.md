@@ -21,3 +21,5 @@ Update logs:
 1.4.5 - Build Restriction, removed function where one can build without the required workbench.
 
 1.4.6 - Made spinning wheel and windmill automatic.
+
+1.4.7 - Updated the quick stack, store mod and the automatics mod.
