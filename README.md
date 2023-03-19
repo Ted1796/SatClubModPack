@@ -23,3 +23,5 @@ Update logs:
 1.4.6 - Made spinning wheel and windmill automatic.
 
 1.4.7 - Updated the quick stack, store mod and the automatics mod.
+
+2.0.0 - Removed revive allies mod.
