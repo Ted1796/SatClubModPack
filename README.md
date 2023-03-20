@@ -37,3 +37,5 @@ Update logs:
 3.0.2 - Removed upgrade world
 
 3.0.3 - Test fix for random spawns.
+
+3.1.0 - Removed darkwoods
