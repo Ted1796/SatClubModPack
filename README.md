@@ -35,3 +35,5 @@ Update logs:
 3.0.1 - Added missing RRRCore dependency.
 
 3.0.2 - Removed upgrade world
+
+3.0.3 - Test fix for random spawns.
