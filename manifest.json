@@ -1,6 +1,6 @@
 {
   "name": "SatClubModPack",
-  "version_number": "2.0.2",
+  "version_number": "3.0.0",
   "website_url": "https://github.com/Ted1796/SatClubModPack",
   "description": "Mod pack for SatClub Server",
   "dependencies": [
@@ -10,7 +10,7 @@
     "NexusTransfer-ValheimRAFT-1.4.5",
     "OdinPlus-OdinShip-0.2.6",
     "Azumatt-Build_Camera_Custom_Hammers_Edition-1.1.3",
-    "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.3.9",
+    "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.3.10",
     "OdinPlus-BowOfFrey-1.0.2",
     "Advize-PlantEverything-1.13.3",
     "GoldenJude-Blacksmiths_tools-2.0.2",
@@ -23,7 +23,7 @@
     "MythikWolf-MagicalWeapons-1.0.9",
     "southsil-SouthsilArmor-2.6.1",
     "CW_Jesse-BetterNetworking_Valheim-2.2.1",
-    "OdinPlus-Clutter-0.1.3",
+    "OdinPlus-Clutter-0.1.4",
     "Thordomr-More_Gates-1.0.10",
     "ComfyMods-ComfyQuickSlots-1.1.0",
     "DarkHeim-BowPack-1.2.0",
@@ -63,6 +63,11 @@
     "VentureValheim-Venture_Multiplayer_Tweaks-0.4.7",
 	"Azumatt-AllTheBases-1.0.4",
 	"cdymrtn-BuildRestrictionTweaks-0.3.0",
-	"aedenthorn_mods-CraftFromContainers-3.0.0"
+	"aedenthorn_mods-CraftFromContainers-3.0.0",
+	"JereKuusela-Upgrade_World-1.34.0",
+	"neurodr0me-RRRMonsters-2.2.1",
+	"ASharpPen-Spawn_That-1.2.2",
+	"ASharpPen-Drop_That-2.3.5",
+	"JereKuusela-Expand_World-1.25.0"
   ]
 }

@@ -29,3 +29,5 @@ Update logs:
 2.0.1 - Added more functionality for the eitr refinery and removed suppression of the machines.
 
 2.0.2 - Removed better lanterns to lessen fps drops.
+
+3.0.0 - Updated the clutter and quick stack mod. Also added test mods to enable monsternomicon.
