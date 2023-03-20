@@ -1,6 +1,6 @@
 {
   "name": "SatClubModPack",
-  "version_number": "3.0.1",
+  "version_number": "3.0.2",
   "website_url": "https://github.com/Ted1796/SatClubModPack",
   "description": "Mod pack for SatClub Server",
   "dependencies": [
@@ -64,7 +64,6 @@
 	"Azumatt-AllTheBases-1.0.4",
 	"cdymrtn-BuildRestrictionTweaks-0.3.0",
 	"aedenthorn_mods-CraftFromContainers-3.0.0",
-	"JereKuusela-Upgrade_World-1.34.0",
 	"neurodr0me-RRRMonsters-2.2.1",
 	"ASharpPen-Spawn_That-1.2.2",
 	"ASharpPen-Drop_That-2.3.5",

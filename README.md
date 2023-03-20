@@ -33,3 +33,5 @@ Update logs:
 3.0.0 - Updated the clutter and quick stack mod. Also added test mods to enable monsternomicon.
 
 3.0.1 - Added missing RRRCore dependency.
+
+3.0.2 - Removed upgrade world
