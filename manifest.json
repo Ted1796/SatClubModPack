@@ -1,6 +1,6 @@
 {
   "name": "SatClubModPack",
-  "version_number": "3.0.0",
+  "version_number": "3.0.1",
   "website_url": "https://github.com/Ted1796/SatClubModPack",
   "description": "Mod pack for SatClub Server",
   "dependencies": [
@@ -68,6 +68,7 @@
 	"neurodr0me-RRRMonsters-2.2.1",
 	"ASharpPen-Spawn_That-1.2.2",
 	"ASharpPen-Drop_That-2.3.5",
-	"JereKuusela-Expand_World-1.25.0"
+	"JereKuusela-Expand_World-1.25.0",
+	"neurodr0me-RRRCore-2.14.0"
   ]
 }

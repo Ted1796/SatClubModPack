@@ -31,3 +31,5 @@ Update logs:
 2.0.2 - Removed better lanterns to lessen fps drops.
 
 3.0.0 - Updated the clutter and quick stack mod. Also added test mods to enable monsternomicon.
+
+3.0.1 - Added missing RRRCore dependency.
