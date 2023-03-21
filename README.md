@@ -39,3 +39,5 @@ Update logs:
 3.0.3 - Test fix for random spawns.
 
 3.1.0 - Removed darkwoods
+
+3.2.0 - Updated Southsil's armor and Warfare. Also brought back smoke collision.
